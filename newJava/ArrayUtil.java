@@ -1,4 +1,4 @@
-package homework;
+package newJava;
 
 public class ArrayUtil {
 
